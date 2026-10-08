@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on programming, data structures, algorithms, AI / ML / Deep learning and more!
+- 🔭 I’m currently working on programming, data structures, algorithms, AI / ML / deep learning and more!
 
 <!--
 **stevenellermann/stevenellermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
